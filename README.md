@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋. Feel free to look around!
 
+😄[LinkedIn](https://www.linkedin.com/in/maxwell-nguyen-02317326b/)
 <!--
 **MNguyen2468/MNguyen2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 For any comments or questions, you can email me at [maxwell4nguyen@gmail.com](maxwell4nguyen@gmail.com).
